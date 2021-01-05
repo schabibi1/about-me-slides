@@ -1,6 +1,6 @@
 # $ whoami Presentation Slides, presented by Arisa Fukuzaki
 
-## Install Marp CLL locally
+## Install Marp CLI locally
 
 Install `@marp-team/marp-cli` in your Node projects.
 
