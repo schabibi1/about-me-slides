@@ -10,14 +10,10 @@ $ yarn add --dev @marp-team/marp-cli
 
 ## Server mode (`--server` / `-s`)
 
-Require to pass `--server` (`-s`) option and a directory to serve (`./slides`).
-
-A default server port is 8080.
-
- `-p` stands for `--preview` option.
+Server mode (Pass directory to serve)
 
 ```
-$ marp -p --server ./slides
+$ npx @marp-team/marp-cli -s ./slides
 ```
 
 More details are in Marp Github repo 👉 [https://github.com/marp-team/marp-cli/](https://github.com/marp-team/marp-cli/)
