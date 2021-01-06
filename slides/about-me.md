@@ -2,11 +2,10 @@
 marp: true
 theme: uncover
 ---
-
 ![bg](#EDECFC)
 ![](#639)
 
-![bg left:40%](./images/aikido-svg.svg)
+![bg left:40%](./images/aikido-programming-nobg-svg.svg)
 
 ```
 $ whoami
@@ -40,7 +39,7 @@ before: "元エミレーツ航空CA"
 
 「オーダーメイド感覚
 プログラミング学習サービス」
-Lilac（ライレック）
+[Lilac（ライレック）](https://note.com/frontendlifeinde/m/m9b8feda1d547)
 
 ---
 
@@ -115,7 +114,7 @@ Lilac（ライレック）
 ![bg](#EDECFC)
 ![](#639)
 
-![bg left:40%](./images/fullstack-svg.svg)
+![bg left:40%](./images/studying-svg.svg)
 
 ### 転職した際の勉強方法や独学
 
@@ -205,3 +204,252 @@ Lilac（ライレック）
 ![bg left:40%](./images/tony-hand-C9Ni6Gh_gWk-unsplash.jpg)
 
 ### 海外フリーランスメリット3つ🙆‍♀️
+
+---
+
+![bg left:40%](./images/chen-mizrach-jL6PTWI7h18-unsplash.jpg)
+
+1. 自分らしくいられる国や場所で仕事できる
+2. 自分で休暇の管理ができる
+3. 仕事しながら、電車でいろんな国に行ける
+
+---
+
+![bg left:40%](./images/tony-hand-C9Ni6Gh_gWk-unsplash.jpg)
+
+### 海外フリーランスデメリット3つ👎
+
+---
+
+![bg left:40%](./images/claudio-schwarz-purzlbaum-okpUcusRvW0-unsplash.jpg)
+
+1. 世界情勢で、好きな時に帰国できない
+2. 親が急病や高齢化したとき、すぐ駆け付けられない
+3. 日本のオフライン技術イベントに、ほぼ行けない
+
+---
+
+![bg](#EDECFC)
+![](#639)
+
+![bg left:40%](./images/fullstack-svg.svg)
+
+### プログラミングメンター講師の経験について
+
+---
+
+![bg left:40%](./images/immo-wegmann-rReG42Hkqo4-unsplash.jpg)
+
+- フロントエンド開発メンター　3年
+- メンターになるまでのフェーズ　4つ
+
+---
+
+![bg left:40%](./images/jon-tyson-jy8z4NBIYSQ-unsplash.jpg)
+
+### 講師になりたいと思ったきっかけ
+
+---
+
+![bg left:40%](./images/annie-spratt-py3XFrpvpgc-unsplash.jpg)
+
+- 2017年当時、海外フリーランスエンジニアの情報がほとんどなくて困った
+- 学習中に出会ったメンターの先生に憧れた
+
+---
+
+![bg left:40%](./images/priscilla-du-preez-tQagUWpAx5k-unsplash.jpg)
+
+### メンター始めたきっかけ
+
+---
+
+![bg left:40%](./images/joshua-ness--bEZ_OfWu3Y-unsplash.jpg)
+
+- 半年経験を積んで、個人サービス開発者と出会った
+- そのCtoC型オンラインスクールで、運営、教材作成、メンターをした
+
+---
+
+![bg left:40%](./images/tony-hand-C9Ni6Gh_gWk-unsplash.jpg)
+
+### Lilacを作って教えることになったきっかけ
+
+---
+
+![bg left:40%](./images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg)
+
+- 前教えていた所がサービス終了
+→ 受講生が一定数いて、本業で回せる感じだった
+→ 個人で教え続けた
+→ どうせなら整えて、個人サービスにしよう💪
+
+---
+
+![bg left:40%](./images/david-pisnoy-S_ao-YqXl2w-unsplash.jpg)
+
+### メンターとしての実績
+
+---
+
+![bg left:40%](./images/magnet-me-63XrEEiOko8-unsplash.jpg)
+
+- マンツーマンで教えてきた受講生、**40名以上**
+- 約10名、日本やドイツ企業に就職/フリーランス独立🎉
+
+QAエンジニア、UXコーダー、フロントエンドエンジニア etc...
+
+---
+
+![bg](#EDECFC)
+![](#639)
+
+![bg left:40%](./images/square_large_4453e35801a2d79cb4d6e2577d486d0f.png)
+
+### Podcast「アノ何」発信コンテンツと、きっかけ
+
+---
+
+![bg left:40%](./images/anonymous.png)
+
+#### 「アノニマスですけど何か」
+- 海外
+- フリーランス
+- ワークライフバランス
+- プログラミング etc...
+
+---
+
+![bg left:40%](./images/c-d-x-PDX_a_82obo-unsplash.jpg)
+
+**だむはさん出演エピソード🎉**
+
+[https://anchor.fm/arisa-dev/episodes/ep24-ITsister-eoj2in](https://anchor.fm/arisa-dev/episodes/ep24-ITsister-eoj2in)
+
+---
+
+![bg left:40%](./images/convertkit-BOI9jki3nzY-unsplash.jpg)
+
+### アノ何を始めたきっかけ
+
+---
+
+![bg left:40%](./images/syntax.png)
+
+- [Syntax](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=bOe7-kl6RnOHapMsVnFWgw)という技術系Podcastに憧れた
+- Syntaxは、ギークな内容多い
+
+→ 私が真似てもニーズなし❌
+
+---
+
+![bg left:40%](./images/blaz-erzetic-CnTiAl1fpRU-unsplash.jpg)
+
+### 私のブログ訪問者の層
+
+- プログラミング学習者👨‍💻
+- 海外フリーランスエンジニアを目指す人✈️
+- ヨーロッパ/ドイツ移住を目指す人🇪🇺
+- 女性👩
+
+---
+
+![bg left:40%](./images/aziz-acharki-alANOC4E8iM-unsplash.jpg)
+
+技術の話でもギークすぎない内容👍
+
+---
+
+![bg](#EDECFC)
+![](#639)
+
+![bg left:40%](./images/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
+
+### 女性がIT業界で働くことについて
+
+---
+
+![bg left:40%](./images/jon-tyson-H1ghE7A-ybU-unsplash.jpg)
+
+### 文系不向き説について
+
+---
+
+![bg left:40%](./images/miguel-luis-W_6b8pWBUKY-unsplash.jpg)
+
+- 私は文系リベラルアーツ出身📗
+- 文系でもエンジニアになれた🙆‍♀️
+- プログラミング = 数学、計算 ばかりではない💡
+- プログラミング言語と、語学は似ている🗣
+
+---
+
+![bg left:40%](./images/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
+
+### 女性がIT業界で働くことについて
+
+---
+
+![bg left:40%](./images/christina-wocintechchat-com-FPQlXQtjkqU-unsplash.jpg)
+
+- もっと増えてほしい🙆‍♀️
+- 技術があれば復帰しやすい👍
+- 出産後も復帰しやすいと聞く🦻
+- 女性が如泥を技術で救う時代は素敵✨
+
+---
+
+![bg](#EDECFC)
+![](#639)
+
+![bg left:40%](./images/eunice-lituanas-bpxgyD4YYt4-unsplash.jpg)
+
+### 女性にとってエンジニアはおすすめ?
+
+---
+
+![bg left:40%](./images/caleb-shaver-EB-sYouxvFc-unsplash.jpg)
+
+# オススメ👍👍👍
+
+---
+
+![bg left:40%](./images/david-pisnoy-S_ao-YqXl2w-unsplash.jpg)
+
+### 理由4つ
+
+---
+
+![bg left:40%](./images/naassom-azevedo-AcWC8WuCQ_k-unsplash.jpg)
+
+### 1. 性別による優劣が問われない職業
+
+---
+
+![bg left:40%](./images/john-mark-smith-9QTQFihyles-unsplash.jpg)
+
+### 2. 出産後、復帰できないと言う女性エンジニアが少ない
+
+---
+
+![bg left:40%](./images/stefan-stefancik-0wMmxNB6Xzc-unsplash.jpg)
+
+### 3. 女性が過ごしやすい場所や国を選べる
+
+---
+
+![bg left:40%](./images/clay-banks-POzx_amnWJw-unsplash.jpg)
+
+### 4. フルリモートなど、ハラスメントを受けにくい環境を選ぶことも可能
+
+---
+
+![bg](#EDECFC)
+![](#639)
+
+![bg left:40%](./images/aikido-svg.svg)
+
+### Thank you🎉
+
+Twitter: [@arisa_dev](https://twitter.com/arisa_dev)
+Blog: [https://aiki-developer.com](https://aiki-developer.com)
