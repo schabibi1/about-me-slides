@@ -15,7 +15,7 @@ $ whoami
 
 ---
 
-# Who Am I?
+### Who Am I?
 
 ```javascript
 ---
@@ -247,6 +247,7 @@ before: "元エミレーツ航空CA"
 
 ![bg left:40%](./images/jon-tyson-jy8z4NBIYSQ-unsplash.jpg)
 
+### Phase 1
 ### 講師になりたいと思ったきっかけ
 
 ---
@@ -260,6 +261,8 @@ before: "元エミレーツ航空CA"
 
 ![bg left:40%](./images/priscilla-du-preez-tQagUWpAx5k-unsplash.jpg)
 
+### Phase 2
+
 ### メンター始めたきっかけ
 
 ---
@@ -272,6 +275,8 @@ before: "元エミレーツ航空CA"
 ---
 
 ![bg left:40%](./images/tony-hand-C9Ni6Gh_gWk-unsplash.jpg)
+
+### Phase 3
 
 ### Lilacを作って教えることになったきっかけ
 
@@ -287,6 +292,8 @@ before: "元エミレーツ航空CA"
 ---
 
 ![bg left:40%](./images/david-pisnoy-S_ao-YqXl2w-unsplash.jpg)
+
+### Phase 4
 
 ### メンターとしての実績
 
@@ -394,8 +401,8 @@ QAエンジニア、UXコーダー、フロントエンドエンジニア etc...
 
 - もっと増えてほしい🙆‍♀️
 - 技術があれば復帰しやすい👍
-- 出産後も復帰しやすいと聞く🦻
-- 女性が如泥を技術で救う時代は素敵✨
+- 出産後も復帰しやすいと聞く👂
+- 女性が女性を技術で救う時代は素敵✨
 
 ---
 
